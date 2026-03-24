@@ -1,8 +1,4 @@
 # 1- STUDY-OF-MICROWAVE-COMPONENTS-AND-INSTRUMENTS
-# NAME: RHISHON D V S
-# REG NO: 212223060213
-
-
 ## Aim:
 To become familiar with microwave components and instruments available in the laboratory.
 
